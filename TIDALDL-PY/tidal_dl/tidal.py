@@ -24,8 +24,8 @@ __VERSION__ = '1.9.1'
 __URL_PRE__ = 'https://api.tidalhifi.com/v1/'
 __AUTH_URL__ = 'https://auth.tidal.com/v1/oauth2'
 # known API key for Fire Stick HD(MQA, Dolby Vision enabled)
-__API_KEY__ = {'clientId': 'OmDtrzFgyVVL6uW56OnFA2COiabqm',
-               'clientSecret': 'zxen1r3pO0hgtOC7j6twMo9UAqngGrmRiWpV7QC1zJ8='}
+__API_KEY__ = {'clientId': 'u5qPNNYIbD0S0o36MrAiFZ56K6qMCrCmYPzZuTnV',
+               'clientSecret': '0259f4d0-5abe-4163-9e60-e01419b9afd5'}
 # __API_KEY__ = {'clientId': 'aR7gUaTK1ihpXOEP', 'clientSecret': 'eVWBEkuL2FCjxgjOkR3yK0RYZEbcrMXRc2l8fU3ZCdE='}
 
 # SSL Warnings
